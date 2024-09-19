@@ -1,5 +1,11 @@
 # Anti-Social Media Board
 
+
+https://github.com/user-attachments/assets/ddd49b43-eb69-42e8-bce7-0f3afcf606ef
+![Screenshot 2024-09-18 at 11 34 00 PM](https://github.com/user-attachments/assets/cc2d5a49-6f21-4e14-8275-ae90cb04ef3b)
+![Screenshot 2024-09-18 at 11 34 12 PM](https://github.com/user-attachments/assets/5332035d-0bd9-4acd-b072-291fa504ddf6)
+
+
 An intentionally ugly and chaotic message board application built with Flask, featuring real-time updates, image and video generation, and more!
 
 ## Features
