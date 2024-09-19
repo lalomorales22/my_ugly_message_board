@@ -55,14 +55,6 @@ An intentionally ugly and chaotic message board application built with Flask, fe
    LUMAAI_API_KEY=your_lumaai_api_key
    ```
 
-5. Initialize the database:
-   ```
-   python
-   >>> from app import init_db
-   >>> init_db()
-   >>> exit()
-   ```
-
 ## Running the Application
 
 1. Start the Flask development server:
@@ -81,8 +73,4 @@ An intentionally ugly and chaotic message board application built with Flask, fe
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+PLEASSE.. I KNOW THERE ARE PEOPLE WHO CAN MAKE SOMETHING WAY COOLER THAN THIS, WITH THIS. LETS SEE WHAT YOU GOT.
